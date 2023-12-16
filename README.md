@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, Im Ali 👋
+
+Im a Java developer with a passion for books. I specialize in building APIs and applications, utilizing my programming skills to create efficient and reliable solutions."
+
+
+### Tech
+
+![Java](https://img.shields.io/badge/-Java-blue)
 
 <!--
 **AliJodat/AliJodat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
