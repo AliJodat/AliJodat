@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hello World, I'm Jasper!](Untitled-1.jpg)](https://github.com/kshyun28)
+[![Hello World, I'm Ali!](Untitled-1.jpg)](https://github.com/kshyun28)
 
 </div>
 
